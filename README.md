@@ -19,7 +19,7 @@ Boton 1 poder de fuego.
 Boton 2 poder de agua.
 
 ## Explicación Risketos
-Hay 2 clases creadas Mago y Arquero. Dependiendo cual eliges cambia la cantidad de vida de este.
+Hay 2 clases creadas Mago y Arquero. Dependiendo cual eliges en el player controller cambia la cantidad de vida de este.
 
 Puedes atacar a los enemigos con la bala de fuego o la de agua. El daño es distinto dependiendo de la habilidad seleccionada.
 
